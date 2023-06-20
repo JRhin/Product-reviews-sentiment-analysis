@@ -19,4 +19,9 @@ In the first part of the homework we try different combinations of encoding tech
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+TF-IDF + Complement Naive Bayes            |  Word2Vec + RandomForest        | BERT + XGBoost
+:-------------------------:|:-------------------------: |:-------------------------:
+<img width="490" alt="fat" src="https://user-images.githubusercontent.com/93355495/234046202-18d011f7-b848-4ec2-b6b6-b4193ad2d8e2.png"> | <img width="490" alt="jelly" src="https://user-images.githubusercontent.com/93355495/234046309-ee59d22a-ee97-467d-a5ba-06b2656240ed.png"> | <img width="490" alt="jelly" src="https://user-images.githubusercontent.com/93355495/234046309-ee59d22a-ee97-467d-a5ba-06b2656240ed.png">
+<br />
+
 
