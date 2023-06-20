@@ -18,19 +18,23 @@ The model we prefer is a Neural Network model based on a BERT pre-trained model 
 In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices. <a target="_blank" href="https://colab.research.google.com/github/Engrima18/ProductSentimentAnalysis/blob/main/ADMLT2023_HW4_notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+<br />
 
 TF-IDF + Complement Naive Bayes            |  Word2Vec + RandomForest        | BERT + XGBoost
 :-------------------------:|:-------------------------: |:-------------------------:
 <img width="385" alt="cm1" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/91bf54af-0bfd-4c01-84eb-be322a61a8d1"> | <img width="385" alt="cm2" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/e970547f-848b-4858-b234-f8cf5e8823aa"> | <img width="385" alt="cm3" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/76decf45-d6ef-45fb-9148-de4b42489b59">
+<br />
 
 XGBoost in combination with BERT embeddings seems to slightly outperform the other methods.
 
 <img width="988" alt="roc-pr" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/6ff748db-52d0-4b8c-9aca-2b459724b3be">
+<br />
 
 In the second part we report our final model improving the best from the previous study by proceeding with a transfer learning technique. In fact we use BERT embeddings in combination with a simple FNN.
 <br />
 
 ## FNN + BERT embeddings final results
+The last proposed model achieves excellent performance compared to the previous ones demonstrating the relevance of deep learning models in language processing (despite the fact that our study is based on less advanced models of RNNs or transformers).
 
 Evaluation metrics  |
 :-------------------------:|
