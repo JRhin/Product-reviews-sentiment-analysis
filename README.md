@@ -44,5 +44,20 @@ Performance|
 :-------------------------:|
 <img width="884" alt="final_perfs" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/c07f4392-8750-47cf-8111-4ecb01ba1a24">|
 
+## Used technologies
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ...
+<br />
+
+## Team
+[Enrico Grimaldi](https://github.com/Engrima18)
+[Mario Edoardo Pandolfo](https://github.com/JRhin)
+
 
 
