@@ -23,6 +23,11 @@ TF-IDF + Complement Naive Bayes            |  Word2Vec + RandomForest        | B
 :-------------------------:|:-------------------------: |:-------------------------:
 <img width="385" alt="cm1" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/91bf54af-0bfd-4c01-84eb-be322a61a8d1"> | <img width="385" alt="cm2" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/e970547f-848b-4858-b234-f8cf5e8823aa"> | <img width="385" alt="cm3" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/76decf45-d6ef-45fb-9148-de4b42489b59">
 
+XGBoost in combination with BERT embeddings seems to outperform the other methods
+
+<img width="988" alt="roc-pr" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/6ff748db-52d0-4b8c-9aca-2b459724b3be">
+
+
 <br />
 
 
