@@ -21,9 +21,7 @@ In the first part of the homework we try different combinations of encoding tech
 
 TF-IDF + Complement Naive Bayes            |  Word2Vec + RandomForest        | BERT + XGBoost
 :-------------------------:|:-------------------------: |:-------------------------:
-<img width="385" alt="cm1" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/91bf54af-0bfd-4c01-84eb-be322a61a8d1">
- | <img width="385" alt="cm2" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/e970547f-848b-4858-b234-f8cf5e8823aa"> |
-<img width="385" alt="cm3" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/76decf45-d6ef-45fb-9148-de4b42489b59">
+<img width="385" alt="cm1" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/91bf54af-0bfd-4c01-84eb-be322a61a8d1"> | <img width="385" alt="cm2" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/e970547f-848b-4858-b234-f8cf5e8823aa"> | <img width="385" alt="cm3" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/76decf45-d6ef-45fb-9148-de4b42489b59">
 
 <br />
 
