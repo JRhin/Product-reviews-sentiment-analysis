@@ -9,7 +9,7 @@ Of the following dataset we quantize the 4 possible `ratings` into a binary feat
 <img width="891" alt="dataset2" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/6f2f185b-05f2-41ec-ada4-f6672376d972">
 
 
-The model we prefer is a Neural Network model based on a BERT pre-trained model for the embedding part fine-tuned with a simple _Fit Foward Neural Network_.
+The model we prefer is a Neural Network model based on a BERT pre-trained model for the embedding part fine-tuned with a simple _Feedfoward Neural Network_.
 
 
 
