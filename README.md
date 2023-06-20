@@ -30,4 +30,11 @@ XGBoost in combination with BERT embeddings seems to slightly outperform the oth
 In the second part we report our final model improving the best from the previous study by proceeding with a transfer learning technique. In fact we use BERT embeddings in combination with a simple FNN.
 <br />
 
+## FNN + BERT embeddings final results
+
+Evaluation metrics  | Performance
+:-------------------------:|:-------------------------:
+<img width="807" alt="metrics" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/a9999dbb-2ca5-415d-9eae-efaa64815af5">|<img width="884" alt="final_perfs" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/c07f4392-8750-47cf-8111-4ecb01ba1a24">
+
+
 
