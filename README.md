@@ -1,2 +1,2 @@
 # ProductSentimentAnalysis
-#4 Homework for the course **Advanced Data Mining and Language Technologies**
+Homework # 4 for the course **Advanced Data Mining and Language Technologies**
