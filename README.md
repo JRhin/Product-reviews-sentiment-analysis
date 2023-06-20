@@ -15,6 +15,6 @@ The model we prefer is a Neural Network model based on a BERT pre-trained model 
 
 ## Model selection
 
-In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rdpaBsDhvR9iMWct_-7ydEIxq9ZYCQHp#scrollTo=7M3fZZVPllhv)
+In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vl_2aaRO3hTSixGE_FLCjPOjbv3tKrnB#scrollTo=ONY4WLO4DHgy)
 
 
