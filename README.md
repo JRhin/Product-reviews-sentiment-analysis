@@ -15,6 +15,6 @@ The model we prefer is a Neural Network model based on a BERT pre-trained model 
 
 ## Model selection
 
-In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vl_2aaRO3hTSixGE_FLCjPOjbv3tKrnB#scrollTo=ONY4WLO4DHgy)
+In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices. <a target="_blank" href="https://colab.research.google.com/github/Engrima18/ProductSentimentAnalysis/blob/main/ADMLT2023_HW4_notebook.ipynb">
 
 
