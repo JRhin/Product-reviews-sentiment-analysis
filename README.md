@@ -1,5 +1,5 @@
 # ProductSentimentAnalysis
-Homework # 4 for the course **Advanced Data Mining and Language Technologies**
+Homework # 4 for the course **Advanced Data Mining and Language Technologies** at La Sapienza University of Rome
 
 ## Brief description
 The assignment consists in the analysis of customer ratings and comments for a set of products and constructing a language model that can classify a customer's comments as negative or positive.
