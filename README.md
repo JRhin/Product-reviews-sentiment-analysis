@@ -11,5 +11,10 @@ Of the following dataset we quantize the 4 possible `ratings` into a binary feat
 
 The model we prefer is a Neural Network model based on a BERT pre-trained model for the embedding part fine-tuned with a simple _Feedfoward Neural Network_.
 
+<img width="837" alt="finetune" src="https://github.com/Engrima18/ProductSentimentAnalysis/assets/93355495/2c1decfb-5adc-40a4-b42c-870b8f4093f5">
+
+## Model selection
+
+In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices.
 
 
