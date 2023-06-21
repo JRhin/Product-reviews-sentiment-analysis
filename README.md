@@ -1,4 +1,4 @@
-# ProductSentimentAnalysis
+# Product Sentiment Analysis
 Homework # 4 for the course **Advanced Data Mining and Language Technologies** at La Sapienza University of Rome
 
 ## Brief description
