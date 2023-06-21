@@ -34,7 +34,7 @@ In the second part we report our final model improving the best from the previou
 <br />
 
 ## FNN + BERT embeddings final results
-The last proposed model achieves excellent performance compared to the previous ones demonstrating the relevance of deep learning models in language processing (despite the fact that our study is based on less advanced models of RNNs or transformers).
+The last proposed model achieves excellent performance compared to the previous ones demonstrating the relevance of deep learning models in language processing (despite the fact that our study is based on less advanced models with respect to RNNs or transformers).
 
 Evaluation metrics  |
 :-------------------------:|
