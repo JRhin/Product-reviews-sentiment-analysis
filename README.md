@@ -17,7 +17,7 @@ The model we prefer is a Neural Network model based on a BERT pre-trained model 
 
 ## Model selection
 
-In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information abouot our choices. <a target="_blank" href="https://colab.research.google.com/github/Engrima18/ProductSentimentAnalysis/blob/main/ADMLT2023_HW4_notebook.ipynb">
+In the first part of the homework we try different combinations of encoding techniques and machine learning models to compare them. Go to the notebook for further information about our choices. <a target="_blank" href="https://colab.research.google.com/github/Engrima18/ProductSentimentAnalysis/blob/main/ADMLT2023_HW4_notebook.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 <br />
@@ -53,12 +53,12 @@ Performance|
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)...........
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 <br />
 
 ## Team
->- [Enrico Grimaldi](https://github.com/Engrima18)
->- [Mario Edoardo Pandolfo](https://github.com/JRhin)
+- [Enrico Grimaldi](https://github.com/Engrima18)
+- [Mario Edoardo Pandolfo](https://github.com/JRhin)
 
 
 
